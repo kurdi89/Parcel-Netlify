@@ -1,4 +1,4 @@
-# Netlify and Parcel
+# Netlify and Parcel Demo
 easy and fast deployment with parcel and Netlify.
 this is made for a personal reference, please feel free to use share and play with. 
 
@@ -98,7 +98,7 @@ then run :
 and choose the function name and select the type using the presets in the cli. the functions will be created auto.
 
 ---
---- 
+
 ##Parcel :
 in your src folder, create the index.html and run :
 ```
