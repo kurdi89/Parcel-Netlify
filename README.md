@@ -86,7 +86,7 @@ If everything looks good on your draft URL, take it live with the --prod flag.
 ```
     netlify deploy --prod
 ```
-
+visit an app build with Parcel and Netlify [Demo](https://parcel-demo.netlify.com/)
 
 ---
 ### functions : 
