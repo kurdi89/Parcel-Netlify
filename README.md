@@ -99,7 +99,7 @@ and choose the function name and select the type using the presets in the cli. t
 
 ---
 
-##Parcel :
+## Parcel :
 in your src folder, create the index.html and run :
 ```
     parcel index.html
