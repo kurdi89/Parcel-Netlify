@@ -106,7 +106,7 @@ in your src folder, create the index.html and run :
 ```
 
 ## additional :
-to create redirects, simply create a file named (no extension): 
+to create redirects, simply create a file named *_redirect* (no extension): 
 ```
     _redirects
 ```
