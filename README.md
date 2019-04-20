@@ -81,6 +81,13 @@ to deploy the app, just run :
     netlify deploy
 ```
 
+
+If everything looks good on your draft URL, take it live with the --prod flag.
+```
+    netlify deploy --prod
+```
+
+
 ---
 ### functions : 
 
