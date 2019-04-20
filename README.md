@@ -105,7 +105,7 @@ in your src folder, create the index.html and run :
     parcel index.html
 ```
 
-additional :
+## additional :
 to create redirects, simply create a file named (no extension): 
 ```
     _redirects
