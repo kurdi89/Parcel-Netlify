@@ -1,4 +1,4 @@
-# Netlify and Parcel
+# Netlify and Parcel Demo
 Easy and fast deployment with Parcel and Netlify.
 this is made for a personal reference, please feel free to use share and play with. 
 
